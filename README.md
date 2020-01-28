@@ -20,9 +20,9 @@ This portfolio is a combination of my professional, club, and personal projects,
 
 ## Past Projects
 
-# *FIRST Tech Challenges*
+* [FTC 2018-2019](pastProjs/firstTech/2019/main2019.md)
+* [FTC 2017-2018](pastProjs/firstTech/2018/main2018.md)
+* [FTC 2016-2017](pastProjs/firstTech/2017/main2017.md)
+* [FTC 2015-2016](pastProjs/firstTech/2016/main2016.md)
 
-* 2018-2019
-* 2017-2018
-* 2016-2017
-* 2015-2016
+
