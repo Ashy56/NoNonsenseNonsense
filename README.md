@@ -20,9 +20,9 @@ This portfolio is a combination of my professional, club, and personal projects,
 
 ## Past Projects
 
-* [FTC 2018-2019](pastProjs/firstTech/2019/main2019.md)
-* [FTC 2017-2018](pastProjs/firstTech/2018/main2018.md)
-* [FTC 2016-2017](pastProjs/firstTech/2017/main2017.md)
-* [FTC 2015-2016](pastProjs/firstTech/2016/main2016.md)
-
+* [FIRST Tech Challlenge Rover Rukus (2018-2019)](pastProjs/2019)
+* [FIRST Tech Challenge 2017-2018](pastProjs/2018)
+* [FIRST Tech Challenge 2016-2017](pastProjs/2017)
+* [FIRST Tech Challenge 2015-2016](pastProjs/2018)
+* [8th grade thingy](pastProjs/eigthgrade)
 
