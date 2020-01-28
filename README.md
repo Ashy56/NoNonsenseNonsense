@@ -20,9 +20,9 @@ This portfolio is a combination of my professional, club, and personal projects,
 
 ## Past Projects
 
-* [FIRST Tech Challlenge Rover Rukus (2018-2019)](pastProjs/2019)
-* [FIRST Tech Challenge 2017-2018](pastProjs/2018)
-* [FIRST Tech Challenge 2016-2017](pastProjs/2017)
-* [FIRST Tech Challenge 2015-2016](pastProjs/2018)
-* [8th grade thingy](pastProjs/eigthgrade)
+* [FIRST Tech Challlenge Rover Rukus (2018-2019)](pastProjs/2019/main2019.md)
+* [FIRST Tech Challenge 2017-2018](pastProjs/2018/main2018.md)
+* [FIRST Tech Challenge 2016-2017](pastProjs/2017/main2017.md)
+* [FIRST Tech Challenge 2015-2016](pastProjs/2016/main2016.md)
+* [8th grade thingy](pastProjs/eigthgrade/maineigthgrade.md)
 
