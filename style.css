@@ -1,0 +1,72 @@
+
+
+
+#myHeader {
+
+    /* Placement */
+    position: absolute;
+    top:0;
+    width: 100%;
+    margin: 0px;
+    height: 150px;
+    padding: 0px;
+
+
+    /* Background */
+    background-color: #080024;
+}
+#myTitle {
+        /* Text */
+        padding-top: 80px;
+        color: white;
+        width: 100%;
+        font-family: "Lucida Console";
+        padding-left: 25%;
+        vertical-align: baseline;
+        text-shadow: 5px 5px black;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #f2f2f2;
+}
+
+.post {
+    /* Placement */
+    width: 40%;
+    max-height: 1000px;
+    margin-left: 20%;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+
+
+    /* Style*/
+    background-color: white;
+    border-top: 5px solid #080024;
+    border-radius: 5px;
+
+}
+
+.postTitle {
+
+    color: black;
+    text-indent: 10px;
+    font-family: "Lucida Console";
+    margin-top: 30px;
+}
+
+.postDescription {
+    padding-bottom: 10px;
+    line-height: 25px;
+    color: #1a1a1a;
+    text-indent: 40px;
+    font-size: 17px;
+    font-family: "Arial";
+
+}
+
+
