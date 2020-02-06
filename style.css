@@ -1,48 +1,72 @@
 
-
-
 #myHeader {
 
     /* Placement */
     position: absolute;
     top:0;
     width: 100%;
-    margin: 0px;
     height: 150px;
-    padding: 0px;
-
 
     /* Background */
     background-color: #080024;
 }
 #myTitle {
         /* Text */
-        padding-top: 80px;
-        color: white;
-        width: 100%;
-        font-family: "Lucida Console";
-        padding-left: 25%;
-        vertical-align: baseline;
-        text-shadow: 5px 5px black;
+    padding-top: 80px;
+    color: white;
+    font-family: "Lucida Console";
+    text-align: center;
+    vertical-align: baseline;
+    text-shadow: 5px 5px black;
 }
 
 body {
+    /*border: solid 10px black;*/
     margin: 0px;
     padding: 0px;
     background-color: #f2f2f2;
 }
 
+/* Style the side navigation */
+.sidenav {
+
+    width: 200px;
+    float: right;
+    font-family: Arial;
+    display: inline-block;
+    background-color: #111;
+    overflow-x: hidden;
+    border-radius: 5px;
+}
+
+/* Side navigation links */
+.sidenav a {
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color on hover */
+.sidenav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+
 .post {
     /* Placement */
-    width: 40%;
-    max-height: 1000px;
-    margin-left: 20%;
-    margin-top: 30px;
-    padding-top: 20px;
-    padding-bottom: 10px;
-    padding-right: 50px;
-    padding-left: 50px;
+    margin-bottom: 30px;
+    width: 70%;
+    padding: 20px 50px;
 
+    /* Text */
+    line-height: 25px;
+    text-indent: 40px;
+    font-size: 17px;
+    font-family: Arial;
+    display: inline-block;
 
     /* Style*/
     background-color: white;
@@ -52,21 +76,27 @@ body {
 }
 
 .postTitle {
-
-    color: black;
-    text-indent: 10px;
-    font-family: "Lucida Console";
-    margin-top: 30px;
-}
-
-.postDescription {
-    padding-bottom: 10px;
-    line-height: 25px;
-    color: #1a1a1a;
-    text-indent: 40px;
-    font-size: 17px;
-    font-family: "Arial";
+    text-indent: 0px;
+    text-shadow: 1px 1px lightgray;
 
 }
 
+#column1 {
+    margin-top: 200px;
+    float:left;
+    width:30%;
+    padding:10px;
+}
 
+#column2 {
+    /*margin-top: 150px;*/
+    float:left;
+    width: 50%;
+    padding:10px;
+}
+
+.row:after {
+    content: "";
+    display:table;
+    clear: both;
+}
