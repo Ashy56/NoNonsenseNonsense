@@ -49,8 +49,7 @@
 
     <div id="column2">
         <div class="post" style="margin-top: 200px">
-
-            <h2 class="postTitle">FIRST Tech Challenge 2019</h2>
+            <h2 class="postTitle">Page Title</h2>
             <p>
                 <b>main description</b> Parachrostia pura is a moth of the Micronoctuidae family.
                 It is known from Guizhou in China. The wingspan is 10–11 mm. The forewings are narrow.
@@ -63,7 +62,7 @@
                 in mid September.
             </p>
 
-            <h2 class="postTitle">Second Decription</h2>
+            <h2 class="postTitle">Second description</h2>
             <p>
                 Prepubertal hypertrichosis is a cutaneous condition characterized by increased hair
                 growth,[1] and is a relatively common finding in otherwise healthy infants and children,
